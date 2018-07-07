@@ -6,4 +6,5 @@ Rubine, D. (1991). Specifying gestures by example (Vol. 25, No. 4, pp. 329-337).
 
 In this project, I performed Rubine classifier for hand-written-digits from 0 to 9.
 
-To start the GUI click INK.m then you can write numbers.
+To start the GUI click INK.m then you can write numbers. Prefer to draw digits in one stroke.
+
